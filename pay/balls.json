@@ -2,7 +2,7 @@
   "name": "Ballspass",
   "short_name": "Ball",
   "icons": [{
-    "src": "./favicon.ico",
+    "src": "../favicon.ico",
     "sizes": "48x48",
     "type": "image/x-icon"
   }],

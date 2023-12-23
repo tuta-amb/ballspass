@@ -3,7 +3,7 @@ function buypass() {
 
   new PaymentRequest(
     [{
-      supportedMethods: location.origin + "/ballspass/ballsment.json",
+      supportedMethods: location.origin + "/ballspass/pay/ballsment.json",
       data: {
         url: document.querySelector("input").value
       },
