@@ -1,0 +1,4 @@
+{
+  "default_applications": ["/balls.json"],
+  "supported_origins": ["https://*"]
+}
