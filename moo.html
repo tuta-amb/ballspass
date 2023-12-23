@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <script src="./navigate.js" type="module">
+  <script type="module">
     navigator.serviceWorker.addEventListener("message", (event) => {
       location.replace(event.data.url);
     });
